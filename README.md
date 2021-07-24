@@ -11,4 +11,5 @@
 <br>
 <br>
 <img src='https://img.shields.io/badge/-LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white' />
+<img src='https://img.shields.io/badge/-REACT-573792?style=for-the-badge&logo=react&logoColor=white' />
 </div>
