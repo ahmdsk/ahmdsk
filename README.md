@@ -6,7 +6,7 @@
 - 💼 Job role: Ctrl + C and Ctrl + V
 
 ### Language And Tools
-![My Skills](https://skills.thijs.gg/icons?i=php,laravel,nodejs,bootstrap,scss,css&theme=light)
+![My Skills](https://skills.thijs.gg/icons?i=html,php,laravel,javascript,vue,nuxt,nodejs,vite,bootstrap,jquery,scss,css,vscode,webpack&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdsk)
 
