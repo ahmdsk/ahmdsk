@@ -24,3 +24,6 @@
   <img src="https://img.shields.io/badge/NODE.JS-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=5CB85C"/>
   <img src="https://img.shields.io/badge/mysql-158fad?style=for-the-badge&logo=mysql&logoColor=black"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdsk)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=radical)
