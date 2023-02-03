@@ -1,5 +1,5 @@
 ### Hi There, I'm Ahmad 👨‍💻
-- 🪴 Im currently learning Web and Mobile Technology
+- 🌱 Im currently learning Web and Mobile Technology
 - 💬 Ask me about this repository
 - 📫 How to reach me: [@ahmdsk._](https://instagram.com/ahmdsk._)
 - 😄 Pronouns: He/Him
