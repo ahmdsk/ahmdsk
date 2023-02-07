@@ -8,6 +8,5 @@
 ### Language And Tools
 ![My Skills](https://skills.thijs.gg/icons?i=php,laravel,javascript,typescript,html,vue,nodejs,vite,bootstrap,scss,vscode,webpack&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdsk)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=nord&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmdsk&theme=nord&hide_border=true)
