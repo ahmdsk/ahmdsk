@@ -5,8 +5,18 @@
 - 😄 Pronouns: He/Him
 - 💼 Job role: Ctrl + C and Ctrl + V
 
-### Language And Tools
-![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,typescript,vue,react,svelte,nextjs,expressjs,nodejs,vite,bootstrap,tailwindcss,mysql,postgresql,firebase,dart,flutter,androidstudio,vscode&theme=light)
+### Programming languange recently used
+![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,dart,go&theme=light)
 
+### For Frontend Web & Mobile Dev
+![My Skills](https://skillicons.dev/icons?i=vue,react,next,tailwindcss,flutter&theme=light)
+
+### For Backend & Database
+![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,expressjs,firebase,postgresql,redis&theme=light)
+
+### DevOps
+![My Skills](https://skillicons.dev/icons?i=nginx,ubuntu&theme=light)
+
+### Stats & Other
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=nord&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmdsk&theme=nord&hide_border=true)
