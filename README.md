@@ -12,10 +12,10 @@
 ![My Skills](https://skillicons.dev/icons?i=vue,react,next,tailwindcss,flutter&theme=light)
 
 ### For Backend & Database
-![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,expressjs,firebase,postgresql,redis&theme=light)
+![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,expressjs,firebase,postgresql,redis,rabbitmq&theme=light)
 
 ### DevOps
-![My Skills](https://skillicons.dev/icons?i=nginx,ubuntu&theme=light)
+![My Skills](https://skillicons.dev/icons?i=nginx,docker,ubuntu&theme=light)
 
 ### Stats & Other
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=nord&hide_border=true)
