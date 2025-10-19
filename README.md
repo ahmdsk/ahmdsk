@@ -9,7 +9,7 @@
 ![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,dart,go&theme=light)
 
 ### For Frontend Web & Mobile Dev
-![My Skills](https://skillicons.dev/icons?i=vue,react,next,tailwindcss,flutter&theme=light)
+![My Skills](https://skillicons.dev/icons?i=vue,react,next,tailwindcss,flutter,nuxt&theme=light)
 
 ### For Backend & Database
 ![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,expressjs,firebase,postgresql,redis,rabbitmq&theme=light)
