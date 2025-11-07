@@ -6,7 +6,7 @@
 - 💼 Job role: Ctrl + C and Ctrl + V
 
 ### Programming languange recently used
-![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,dart,go&theme=light)
+![My Skills](https://skillicons.dev/icons?i=php,javascript,typescript,dart,go,rust&theme=light)
 
 ### For Frontend Web & Mobile Dev
 ![My Skills](https://skillicons.dev/icons?i=vue,react,next,tailwindcss,flutter,nuxt&theme=light)
