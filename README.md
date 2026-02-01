@@ -16,7 +16,3 @@
 
 ### DevOps
 ![My Skills](https://skillicons.dev/icons?i=nginx,docker,ubuntu&theme=light)
-
-### Stats & Other
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=nord&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmdsk&theme=nord&hide_border=true)
